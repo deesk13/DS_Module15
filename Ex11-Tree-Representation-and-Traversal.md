@@ -4,10 +4,12 @@
 To write a C function to perform post order traversal of a binary tree.
 
 ## Algorithm
+```
 1.Start and define display_postorder(root_node).
 2.If root_node is not null, recursively call left and right children.
 3.After both calls, print the current node’s value.
-4.End. 
+4.End.
+```
 
 ## Program:
 ```
